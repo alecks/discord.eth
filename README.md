@@ -9,7 +9,7 @@ For example, you could write a bot using a classic API library — an interface.
 - It is literally impossible for a bot running on Ethereum to go down.
 - Payments are perfectly integrated.
 - There isn't a central authority; even the original author can't change the code.
-- All you need to manage
+- All you need to manage in the long term is the interfacing bot, but in theory, other users will also host their own.
 
 ## Disadvantages
 
