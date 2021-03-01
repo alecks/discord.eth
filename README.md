@@ -6,12 +6,13 @@ For example, you could write a bot using a classic API library — an interface.
 
 ## Advantages
 
-- It is literally impossible for a bot running on Ethereum to go down.
-- Payments are perfectly integrated.
+- It's practically impossible for a bot running on Ethereum to go down.
+- Payments are integrated.
 - There isn't a central authority; even the original author can't change the code.
 - All you need to manage in the long term is the interfacing bot, but in theory, other users will also host their own.
 
 ## Disadvantages
 
 - It's relatively pricey if you want to actually use the live network.
-- There are many things that aren't possible without extra effort.
+- There's a lot of things that aren't possible without extra effort.
+- **Discord wasn't designed for this, so it's not really practical at the moment.**
